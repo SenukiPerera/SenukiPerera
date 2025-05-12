@@ -1,4 +1,4 @@
-<div><img src="https://github.com/SenukiPerera/SenukiPerera/blob/main/github.png"></div>
+<div><img src="https://github.com/SenukiPerera/SenukiPerera/blob/main/github_cover.png"></div>
 
 <h1 align="center">Hi 👋, I'm Senuki Perera</h1>
 <h3 align="center">A passionate software engineering undergraduate in Sri Lanka. I am interested in UI/UX Designing and Web Development.</h3>
